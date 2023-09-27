@@ -11,11 +11,11 @@ body{
     font-size: 32px;
  
     background-color: #E1EDF2;
-}
+  }
 
   .subtitulo {
     border-bottom: 2px solid black;
-}
+  }
 
 figure{
     margin: 30px;
@@ -42,4 +42,4 @@ figcaption {
     
     figure img {
       width: 100%;
-}
+    }
